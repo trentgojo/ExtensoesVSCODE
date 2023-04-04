@@ -1,7 +1,6 @@
-<h3># ExtensoesVSCODE<h3>
-<h3>Extensões para usar no VSCODE<h3>
-
-
+<h4># ExtensoesVSCODE<h4>
+<h4>Extensões para usar no VSCODE<h4>
+<br>
 <br>((Extensôes))<br>
 <br>*vccode-icons<br>
 <br>*auto rename tag<br>
@@ -17,7 +16,7 @@
 <br>*dart<br>
 <br>*docker<br>
 <br>*eslint<br>
-<br><br>*javascript snippet pack<br>
+<br>*javascript snippet pack<br>
 <br>*markdownlint<br>
 <br>*php intellisense<br>
 <br>*python<br>

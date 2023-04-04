@@ -1,5 +1,5 @@
-<h1># ExtensoesVSCODE<h1>
-<h1>Extensões para usar no VSCODE<h1>
+<h3># ExtensoesVSCODE<h3>
+<h3>Extensões para usar no VSCODE<h3>
 
 
 ((Extensôes))
